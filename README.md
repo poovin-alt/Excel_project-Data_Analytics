@@ -1,4 +1,4 @@
-# 📊 Excel for Data Analytics - Full Course
+# 📊 Excel for Data Analytics 
 
 ## Table of Contents
 
