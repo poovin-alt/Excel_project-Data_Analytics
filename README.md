@@ -2,11 +2,6 @@
 
 ## Table of Contents
 
-### [Course Problem Workbooks](/0_Resources/Problems/)
-
-- The Workbooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/excel)
-
 ### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
 - Worksheets
 - Workbooks
